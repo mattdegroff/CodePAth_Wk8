@@ -21,6 +21,8 @@ Red Target
 Green Target
 1. Enumeration Attack
 
+all valid users, who log in unsuccesfully, have the prompt appear bolded, all non-valid users are prompted with an unbolded response
+
 ![](green/enumerationGreen.gif)
 
 2. Stored XSS attack
